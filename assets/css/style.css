@@ -1,0 +1,112 @@
+/* Roboto font 300 500 */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    background-color: #28A745;
+    
+}
+
+.navbar img{
+    width: 86pt;
+    height: 25pt;
+}
+
+.card{
+    margin-top: 30px;
+}
+
+.card h5{
+    color: #212529;
+    font-weight: 300;
+    font-size: 20pt;
+}
+
+.card h6{
+    color: #707070;
+    font-weight: 300;
+    font-size: 16pt;
+    margin-bottom: 0;
+}
+
+.card-text{
+    color: #707070;
+    font-weight: 300;
+    font-size: 13pt;
+    margin-bottom: 11px;
+}
+
+.fa-solid{
+    margin-right: 4.04px;
+}
+
+.card hr{
+    color: #707070A0;
+}
+
+.price1{
+    line-height: 0;
+    float: right;
+    font-weight: 300;
+    font-size: 16pt;
+    color: #707070;
+    padding: 22px 0 15px 0px;
+}
+
+.price2{
+    line-height: 0;
+    float: right;
+    font-weight: 500;
+    font-size: 20pt;
+    color: #28A745;
+    padding: 22px 0 15px 11px;
+}
+
+.form{
+    background-color: #28A745;
+    margin-top: 47px;
+    padding: 64px 0 29px 0;
+    text-align: center;
+}
+
+.form p{
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 19pt;
+}
+
+.form .form-control{
+    margin: 14px 0 14px 0;
+    color: #707070;
+    font-weight: 300;
+    font-size: 16pt;
+    
+}
+
+.form .btn{
+    color: #212529;
+}
+
+footer{
+    text-align: center;
+}
+
+footer p{
+    font-weight: 300;
+    font-size: 16pt;
+    color: #707070;
+    margin-top: 10px;
+    padding-bottom: 22px;
+}
+
+footer img{
+    margin-top: 24px;
+    width: 82pt;
+    height: 24pt;
+}
